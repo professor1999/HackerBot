@@ -1196,4 +1196,4 @@ if(message2say.length < 1) return message.channel.send({embed: sayembed}).catch(
 
   }
 });
-client.login("NzQzNzY3NTIxMzUzNTMxNDU0.XzZdew.CIlPFYN2w0VwE-U2_eKZeqFnk3M")
+client.login("NzQzNzY3NTIxMzUzNTMxNDU0.XzZdew.CIlPFYN2w0VwE-U2_eKZeqFnk3M");
